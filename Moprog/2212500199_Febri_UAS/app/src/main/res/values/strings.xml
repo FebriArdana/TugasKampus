@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Maps Toko Buku Anak</string>
+
+    //Headings
+    <string name="heading_one">Pencarian Toko Mudah</string>
+    <string name="heading_two">Beragam Juga Pilihan Toko Bukunya</string>
+    <string name="heading_three">Ayo Temukan Toko Buku Kesayangan Anda Untuk Sang Buah Hati</string>
+    <string name="heading_fourth">Hanya Diaplikasi Ini Saja Kalian Bisa Menemukan Toko Buku Terdekat Kalian</string>
+    <string name="title_activity_lokasi1">lokasi1</string>
+
+</resources>
