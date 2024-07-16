@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="text_top">Selamat Datang</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_notification">Notification</string>
+    <string name="menu_message">Message</string>
+    <!--  TODO: Remove or change this placeholder text  -->
+
+
+    <string name="version_app">version 1.1</string>
+    <string name="recommended">Recommended</string>
+    <string name="more">More</string>
+    <string name="dry_cleaning">Dry Cleaning</string>
+    <string name="wash_and_iron"></string>
+    <string name="ironing">Ironing</string>
+    <string name="choose_services">Choose Services</string>
+    <string name="title_activity_home_detail">HomeDetailActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="artikel_sampah">Baju Kapas dan Katun : Kapas atau katun merupakan bahan tekstil klasik yang sudah familiar dalam industri pakaian jadi. Bahan katun tidak mudah pudar ketika dicuci menggunakan air dan larutan deterjen. Warna pakaian berbahan katun dapat dipertahankan dalam rendaman baik air dingin maupun air hangat. Satu-satunya hal yang perlu diperhatikan adalah bahan katun menjadi kisut atau susut.
+    </string>
+    <string name="artikel1">Sampah anorganik merupakan sampah yang sifatnya lebih sulit diurai seperti sampah plastik, kaleng, dan styrofoam. Sampah anorganik umumnya diwadahi dengan tempat sampah berwarna kuning. Dengan adanya tempat sampah khusus maka dapat mempermudah pemanfaatan sampah anorganik sebagai kerajinan daur ulang atau daur ulang di pabrik.
+    </string>
+    <string name="ar2">Sampah B3 umumnya diwadahi dengan tempat sampah berwarna merah. Sampah B3 merupakan sampah yang dapat membahayakan manusia, hewan, atau lingkungan sekitar. Contoh sampah B3 yaitu sampah kaca, kemasan detergen atau pembersih lainnya, serta pembasmi serangga dan sejenisnya. Agar meminimalisir dampak yang mungkin ditimbulkan, sampah B3 perlu dikelompokkan secara khusus dalam satu wadah.
+    </string>
+    <string name="ar3">Sampah kertas juga merupakan jenis sampah yang dapat dipilah secara khusus dalam wadah tempat sampah berwarna biru.Pemilahan sampah kertas berguna untuk memudahkan proses daur ulang kertas. Karton, potongan kertas, pamflet, bungkus kemasan berbahan kertas, dan buku juga termasuk dalam jenis sampah kertas.</string>
+    <string name="ar4">Sampah residu merupakan sampah sisa di luar keempat jenis sampah di atas. Tempat sampah yang diperuntukan bagi tempat sampah residu umumnya berwarna abu-abu. Contoh sampah residu yaitu seperti popok bekas, bekas pembalut, bekas permen karet, atau puntung rokok. </string>
+    <string-array name="kategori_laundry">
+        <item>Baju</item>
+        <item>Celana</item>
+        <item>Jas</item>
+        <item>Selimut</item>
+        <item>Spring Bed</item>
+        <item>Karpet</item>
+    </string-array>
+    <string-array name="role_array">
+        <item>User</item>
+        <item>Admin</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+</resources>
